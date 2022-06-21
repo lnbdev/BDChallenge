@@ -1,0 +1,3 @@
+# BDChallenge
+
+Code Challenge - RapidPay
